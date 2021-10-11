@@ -1,1 +1,1 @@
-# chumma
+Initial Phase of the project App
